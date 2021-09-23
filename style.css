@@ -105,7 +105,7 @@ header h1{
     text-align: center;
     text-shadow: 2px 2px 2px #000;
     border-radius: 5px;
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster', sans-serif;
 }
 
 .description p{
@@ -113,4 +113,5 @@ header h1{
     font-size: 22px;
     color: #000;
     text-align: center;
+    font-family: 'Lobster', sans-serif;
 }
